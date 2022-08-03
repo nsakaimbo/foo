@@ -1,0 +1,12 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "description": "It's magic!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsakaimbo/foo.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
